@@ -7,4 +7,6 @@
 * [📈 The evolution](overview/the-evolution.md)
 * [⏯ Account](overview/account/README.md)
   * [⛓ Creating Account](overview/account/creating-account.md)
-  * [Page 1](overview/account/page-1.md)
+  * [⛓ Registers](overview/account/registers.md)
+  * [⛓ Parities](overview/account/parities.md)
+  * [⛓ Closing](overview/account/closing.md)
