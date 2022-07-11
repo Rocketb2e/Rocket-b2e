@@ -10,3 +10,4 @@
   * [⛓ Registers](overview/account/registers.md)
   * [⛓ Parities](overview/account/parities.md)
   * [⛓ Closing](overview/account/closing.md)
+* [Page 1](overview/page-1.md)
