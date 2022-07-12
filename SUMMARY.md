@@ -14,3 +14,6 @@
 * [🌠 Rewards](overview/rewards.md)
 * [🎯 Promotions](overview/promotions.md)
 * [Page 1](overview/page-1.md)
+* [🔰 Transparency](overview/transparency.md)
+* [🔐 Security](overview/security.md)
+* [🆘 Self-help](overview/self-help.md)
