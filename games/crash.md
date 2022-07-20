@@ -1,8 +1,9 @@
 ---
-coverY: 0
+cover: ../.gitbook/assets/GitBook 2.png
+coverY: -22.955465587044532
 ---
 
-# 🚀 Beat
+# 🚀 Crash
 
 Beat is an interactive game in which the goal is to withdraw from the game before the graphics crash (stop).
 

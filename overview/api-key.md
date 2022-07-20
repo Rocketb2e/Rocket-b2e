@@ -1,5 +1,6 @@
 ---
-coverY: 0
+cover: ../.gitbook/assets/GitBook 2.png
+coverY: -19.676113360323885
 ---
 
 # 🎱 API Key

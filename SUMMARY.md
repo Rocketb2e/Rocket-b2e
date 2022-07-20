@@ -21,20 +21,20 @@
 ## GAMES
 
 * [🎰 Roulette](games/roulette.md)
-* [🚀 Beat](games/beat.md)
-* [💣 Mine-hunter](games/mine-hunter.md)
-* [🎲 Craps](games/craps.md)
+* [🚀 Crash](games/crash.md)
+* [💣 Minesweeper](games/minesweeper.md)
+* [🎲 Dice](games/dice.md)
 * [⛩ Tower](games/tower.md)
 
-## Group 1
+## Tokenomics
 
-* [🪙 Token B2E](group-1/token-b2e.md)
-* [⚠ References](group-1/references.md)
-* [💎 Fairlaunch](group-1/fairlaunch.md)
-* [🛡 KYC & Audit](group-1/kyc-and-audit.md)
-* [🏆 Our team](group-1/our-team.md)
-* [🛣 Roadmap](group-1/roadmap.md)
+* [💎 FairLaunch](https://www.pinksale.finance/)
+* [🪙 Token B2E](tokenomics/token-b2e.md)
+* [⚠ References](tokenomics/references.md)
+* [🛡 KYC & Audit](tokenomics/kyc-and-audit.md)
+* [🏆 Our team](tokenomics/our-team.md)
+* [🛣 Roadmap](tokenomics/roadmap.md)
 
-## social network&#x20;
+## Acess
 
 * [➡ Website](https://rocketb2e.io/home)

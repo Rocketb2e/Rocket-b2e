@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/GitBook 2.png
+coverY: -18.582995951417004
+---
+
 # 🌠 Rewards
 
 Rocket B2E has several ways to reward your investors, where besides the opportunities you will have in your bets, you can be rewarded with totally exclusive benefits.

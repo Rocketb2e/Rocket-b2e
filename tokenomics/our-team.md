@@ -1,7 +1,7 @@
 ---
 cover: ../.gitbook/assets/GitBook 2.png
-coverY: -21.86234817813765
+coverY: -18.582995951417004
 ---
 
-# ⛩ Tower
+# 🏆 Our team
 

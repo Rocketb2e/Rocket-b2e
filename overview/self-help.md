@@ -1,5 +1,6 @@
 ---
-coverY: 0
+cover: ../.gitbook/assets/GitBook 2.png
+coverY: -17.48987854251012
 ---
 
 # 🆘 Self-help

@@ -1,5 +1,6 @@
 ---
-coverY: 0
+cover: ../../.gitbook/assets/GitBook 2.png
+coverY: -22.955465587044532
 ---
 
 # ⛓ Creating Account

@@ -2,7 +2,8 @@
 description: >-
   Innovation in the betting market, already more seen in the segment! will you
   miss the opportunity?
-coverY: 0
+cover: .gitbook/assets/GitBook 2.png
+coverY: -29.51417004048583
 ---
 
 # 🌐 Rocket B2E

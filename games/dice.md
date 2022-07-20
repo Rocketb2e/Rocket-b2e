@@ -1,8 +1,9 @@
 ---
-coverY: 0
+cover: ../.gitbook/assets/GitBook 2.png
+coverY: -20.769230769230766
 ---
 
-# 🎲 Craps
+# 🎲 Dice
 
 The game of craps is, thanks to its very simple rules, one of the best known games in land-based casinos around the world!
 
