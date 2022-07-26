@@ -25,6 +25,7 @@
 * [💣 Minesweeper](games/minesweeper.md)
 * [🎲 Dice](games/dice.md)
 * [⛩ Tower](games/tower.md)
+* [💬 Future projections](games/future-projections.md)
 
 ## Tokenomics
 
